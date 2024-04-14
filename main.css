@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.sidebar{
+    translate: 100%;
+    transition: translate 0.5s cubic-bezier(0.77,0.2,0.05,1.0);
+}
